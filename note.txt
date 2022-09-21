@@ -1,0 +1,11 @@
+Technologies I Use
+
+1, Postgresql
+2, DataGrip
+3, diagrams.net
+
+In this Database model we have three model customer , employees and administrators
+employees and administrators workers so we create one table that include all  
+employees and administrators the database name is Account we will distinguish them by using AccountGroup and 
+AccountStatus this two table can tell us diffrent thing about the Account and by using this we can control the 
+Account Expiration Date and other.
